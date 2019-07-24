@@ -14,7 +14,14 @@ nav{
 }
 nav a{
     font-family: 'Montserrat', sans-serif;
-    color: white;
-    font-size: 12pt;
+    color: rgb(128, 0, 64);
+    font-size: 12pt bolder;
     text-decoration: none;
+
+    
+}
+nav a:hover{
+    font-size: 16pt;
+    color: white;
+    opacity: none;
 }
